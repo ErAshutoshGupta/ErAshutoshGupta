@@ -1,5 +1,5 @@
 ### Hi Everyone👋
-<img align="center"  src="https://safersocietygr.wpenginepowered.com/wp-content/uploads/2018/04/Gif-animation-hello-1170x614.gif">
+<center><img align="center" height="300" alt="coding" class="center" src="https://safersocietygr.wpenginepowered.com/wp-content/uploads/2018/04/Gif-animation-hello-1170x614.gif"></center>
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar Gupta</h1>
 <h3 align="center">Computer science and AI student with a passion for building innovative and user-friendly applications. Experienced in web development with Python, JavaScript, and HTML/CSS. Strong problem-solving and analytical skills. Seeking an internship or full-time position in the field of artificial intelligence.</h3>
 
