@@ -1,6 +1,6 @@
 ### Hi Everyone👋
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar Gupta</h1>
-<h3 align="center">Computer science and AI student with a passion for building innovative and user-friendly applications. Experienced in web development with Python, JavaScript, and HTML/CSS. Strong problem-solving and analytical skills. Seeking an internship or full-time position in the field of artificial intelligence.</h3>
+<h3 align="center">Computer science and AI student with a passion for building innovative and user-friendly applications. Experienced in Full Stack Development,MERN Stack,Python,Java C++,DSA . Strong problem-solving and analytical skills. Seeking an internship or full-time position in the field of Artificial Intelligence and FULL STACK DEVELOPER.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erashutoshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="erashutoshgupta" /> </p>
